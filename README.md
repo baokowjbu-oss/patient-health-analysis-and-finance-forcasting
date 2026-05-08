@@ -4,6 +4,7 @@
 - Jupyter Notebook
 - Scipy
 - Pandas
+- Numpy
 
 💬**Description**
 
