@@ -1,10 +1,10 @@
 ⚙**️Technology used**
 
-- Python
-- Pandas
-- Scipy
-- Seaborn
-- Matplotlib
+- `Python`
+- `Pandas`
+- `Scipy`
+- `Seaborn`
+- `Matplotlib`
 
 📸**️A Few Images of the project** (Please check Notebooks to find out more)
 1. Data distribution
